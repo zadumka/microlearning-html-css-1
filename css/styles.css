@@ -345,7 +345,7 @@ body {
 
 .customers-title {
   margin-bottom: 72px;
-  line-height: 1.1;
+  line-height: 1.11;
 }
 
 .customers-list {
@@ -567,7 +567,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%) scale(1);
   width: 408px;
-  min-height: 576px;
+  min-height: 584px;
   background: #fcfcfc;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 1px 3px rgba(0, 0, 0, 0.12),
     0px 2px 1px rgba(0, 0, 0, 0.2);
